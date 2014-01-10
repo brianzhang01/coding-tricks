@@ -3,12 +3,17 @@ This is a collection of command-line shortcuts and development tools I've found 
 
 ## Table of Contents
 [Development Tools](#developmemnt-tools)
+
 * [pip](#pip)
 * [virtualenv](#virtualenv)
+
 [Command-line tricks](#command-line-tricks)
+
 * [Creating symlinks](#creating-symlinks)
 * [Adding to your path](#adding-to-your-path)
+
 [Bash Profile](#bash-profile)
+
 * [Aliasing](#aliasing)
 * [Adding to system's PATH](#adding-to-systems-path)
 
