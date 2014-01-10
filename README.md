@@ -1,6 +1,17 @@
 # Coding Tricks
 This is a collection of command-line shortcuts and development tools I've found to be helpful. Feel free to suggest more!
 
+## Table of Contents
+[Development Tools](#developmemnt-tools)
+* [pip](#pip)
+* [virtualenv](#virtualenv)
+[Command-line tricks](#command-line-tricks)
+* [Creating symlinks](#creating-symlinks)
+* [Adding to your path](#adding-to-your-path)
+[Bash Profile](#bash-profile)
+* [Aliasing](#aliasing)
+* [Adding to system's PATH](#adding-to-systems-path)
+
 ## Development Tools
 ### pip
 pip is a command-line tool that helps users easily install Python packages and dependencies. For example, if you needed to install a specific version of Django, you would simply run `pip install Django==1.4.1`.
@@ -30,7 +41,7 @@ Now, everytime I access /Library/tomcat, I am really accessing the files in /pat
 
 For more on symlinks on OS X, look [here](http://www.cyberciti.biz/faq/symbolic-symlink-mac-osx-remove-command/).
 
-## Adding to your path
+### Adding to your path
 Running `export PATH=$PATH:/path/to/be/added` added /path/to/be/added to your system's path in that instance of your terminal (to add /path/to/be/added to your system's path globally, edit your .bash_profile).
 
 ## Bash Profile
