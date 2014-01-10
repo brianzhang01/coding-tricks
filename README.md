@@ -34,6 +34,10 @@ For more on symlinks on OS X, look [here](http://www.cyberciti.biz/faq/symbolic-
 Running `export PATH=$PATH:/path/to/be/added` added /path/to/be/added to your system's path in that instance of your terminal (to add /path/to/be/added to your system's path globally, edit your .bash_profile).
 
 ## Bash Profile
+Usually located at your default directory (~) (for me, Users/admin/), your .bash_profile file can be used to add command-line shortcuts that you commonly use.
+
+See what was in my [.bash_profile](.bash_profile) as of January 10, 2014.
+
 ### Aliasing
 To alias a keyword on your command-line, add the following to your .bash_profile file:
 `alias cd_to_dir=cd /path/to/dir`
