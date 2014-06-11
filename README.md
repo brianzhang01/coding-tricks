@@ -1,8 +1,8 @@
-# Coding Tricks
+# Coding Tricks (from [Ruth Fong](https://github.com/ruthcfong))
 This is a collection of command-line shortcuts and development tools I've found to be helpful. Feel free to suggest more!
 
 ## Table of Contents
-[Development Tools](#developmemnt-tools)
+[Development Tools](#development-tools)
 
 * [pip](#pip)
 * [virtualenv](#virtualenv)
